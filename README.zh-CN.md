@@ -21,8 +21,10 @@
 
 [英雄联盟客户端 (WPF)](https://github.com/jamesnetgroup/leagueoflegends-wpf)  
 [英雄联盟客户端 (Uno-Platform)](https://github.com/jamesnetgroup/leagueoflegends-uno)  
-[英雄联盟客户端 (WinUI 3)](https://github.com/jamesnetgroup/leagueoflegends-winui3)  
-[英雄联盟客户端 (UWP)](https://github.com/jamesnetgroup/leagueoflegends-uwp)
+[英雄联盟客户端 (OpenSilver)](https://github.com/jamesnetgroup/leagueoflegends-opensilver)  
+[英雄联盟客户端 (UWP)](https://github.com/jamesnetgroup/leagueoflegends-opensilver)  
+[英雄联盟客户端 (WinUI 3)](https://github.com/jamesnetgroup/leagueoflegends-winui3)
+
 
 > 如果你是 WPF、Uno Platform 或 WinUI 3 开发者，你将看到基于 XAML 的技能如何过渡到 UWP 开发。
 
